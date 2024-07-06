@@ -1,0 +1,399 @@
+.navbar{
+ display: inline-block;
+
+  
+}
+ul{
+    list-style-type: none;
+    background-color: rgba(10, 1, 1, 0.989);
+    position: fixed;
+    z-index: 1;
+    top: -20px;
+}
+li h1{
+    color: red;
+    margin-left: 10px;
+}
+li{
+    display: inline-block;
+    margin-right: 1px;
+    margin-left:55px ;
+    font-size: 20px;
+   
+}
+
+ul button{
+    border: 4px solid orange;
+    color: white;
+    border-radius: 25px;
+    padding: 15px;
+    background-color: black;
+  
+}
+ul button:hover{
+    background-color: rgb(223, 182, 105);
+    color: red;
+}
+a{
+    text-decoration: none;
+    text-transform: capitalize;
+    color:white;
+}
+a:hover{
+    color: orange;
+}
+
+.set2{
+    background-color:gray;
+    border-radius: 0px 0px 600px 0px;
+    height: 700px; 
+} 
+.set2 h1{
+    font-size:65px;
+    margin-top: -35px;
+    margin-left:-40px;
+}
+.set2 h3{
+    font-size: 30px;
+    margin-left:-40px;
+    margin-top: -70px;
+}
+
+.set3{
+    top: 230px;
+    left: 170px;
+    position: relative;
+}
+
+input{
+    border-radius: 20px;
+    padding: 15px;
+    text-align: center;
+}
+
+#box1{
+    height: 680px;
+    margin-left: 790px;
+    top: 85px;
+    position: absolute;
+    width: 580px;
+}
+button{
+   border: 2px solid orange ;
+   padding: 15px;
+   background-color: orange;
+   border-radius: 25px;
+   color: white;
+   font-size: large;
+}
+.set3 h5{
+    display: inline;
+    font-size: 20px;
+    margin-left: 50px;
+   
+}
+.set3 h5:hover{
+    text-decoration: underline;
+    text-decoration-color: orange;
+
+}
+.set3 h1{
+    color: white;
+}
+.set3 h3{
+    color: orange;
+}
+.set4{
+    background-color: orange;
+    position: relative;
+    display: inline-block;
+    height: 150px;
+    width: 900px;
+    top: 280px;
+    
+}
+.s41{
+    width: 70px;
+    display: inline-block;
+    height: 70px;
+    border-radius: 50%;
+    
+   
+}
+.s41 img{
+    border: 5px solid white;
+    width: 100%;
+    height: 70px;
+    border-radius: 50%;
+    margin-top: 30px;  
+}
+
+.s42{
+    display: inline-block;
+    margin-left: 40PX;
+}
+.s42 i{
+    color :red;
+    font-size:35px ;
+    margin-left: -20PX;
+
+}
+.s42 h1{
+    color: white;
+    margin-left: -20px;
+    position: relative;
+    top: 80px;
+    left: 60px;
+}
+.s42 h4{
+margin-left: 300px;
+font-size: x-large;
+}
+
+#box2{
+    width: 700px;
+    height: 480px;
+    margin-top: 140px;
+    margin-left: 70px;
+}
+.set5{
+    position: relative;
+    top: -450px ;
+    left: 850px;
+    width: 600px;
+}
+.set5 h5{
+    font-size: x-large;
+    color: rgb(27, 24, 24);
+}
+.set5 h1{
+    font-size: xx-large;
+}
+.set5 h3{
+    font-size:x-large ;
+    color: red;
+}
+hr{
+    border-top: 5px dotted lightsalmon;
+}
+
+.set6 h3{
+    text-align: center;
+    font-size: x-large;
+    color: orange;
+    margin-top: -350px;
+}
+.set6 h1{
+    text-align: center;
+    font-size: xx-large;
+    margin-top:-15px;
+}
+
+.set7{
+    text-align: center;
+    margin-top:70px ;
+}
+.set7 h1{
+    color: red;    
+}
+
+.set8{
+    border: 2px solid black;
+    margin: auto;
+    width: 700px;
+    padding-left: 100px;
+    background-color: rgb(161, 216, 236);
+    margin-top: 60px;
+    border-radius: 200px;
+}
+
+.set9{
+    font-size:  large;
+    text-align: center;
+}
+
+.set10{
+    text-align: center;
+    margin-top:40px;
+
+}
+.set10 h4{
+    font-size: large;
+    margin-top:-10px;
+    
+}
+#box3{
+    width: 45%;
+    height: 350px;
+    margin-left: 40px;
+    border-radius: 60px;
+    box-shadow: 3px 3px 7px 5px gray;
+}
+#box3:hover{
+    width: 47%;
+    height: 352px;
+
+}
+#box4:hover{
+    width: 47%;
+    height: 352px;
+}
+
+#box4{
+    width:45%;
+    height: 350px;
+    border-radius: 60px;
+    margin-left: 40px;
+    box-shadow: 3px 3px 7px 5px gray;
+}
+
+.set12{
+    text-align: center;
+    margin-top: 50px;
+}
+.set12 p{
+    font-size: large;
+}
+.set13{
+    text-align: center;
+    margin-top: 40px;
+    font-size: larger;
+
+}
+.set13 h3{
+    font-size: xx-large;
+}
+#box5{
+    width: 450px;
+    height: 450px;
+    margin-left: 250px;
+    margin-top: 90px;
+}
+.set14{
+    margin-left: 800px;
+    margin-top: -330px;
+    font-size: x-large;
+    width: 550px;
+}
+
+.set15{
+    text-align: center;
+    margin-top: 240px;
+    font-size: x-large;
+}
+#box6{
+    width: 800px;
+    height: 400px;
+    margin-left:350px ;
+}
+.set16{
+    text-align: center;
+    font-size: x-large;
+
+}
+.set17{
+    text-align: center;
+    font-size: x-large;
+}
+.set18{
+    border: 2px solid black;
+    margin: auto;
+    width: 700px;
+    background-color: rgb(161, 216, 236);
+    text-align: center;
+    font-size: x-large;
+    padding: 30px;
+    border-radius:150px;
+}
+.set19{
+    text-align: center;
+    font-size: x-large;
+}
+#box7{
+    border: 13px solid orange  ;
+    height: 400px;
+    width: 400px;
+    border-radius: 50%;
+    margin-left: 180px;
+    margin-top: 20px;
+}
+.set20{
+   
+    margin-left: 700px;
+    font-size: large;
+    margin-top: -350px;
+    width: 600px;
+}
+ .set21{
+    text-align: center;
+    margin-top: 230px;
+    margin-left:0px;
+}
+.set21 h3{
+    color: red;
+    font-size: 30px;
+}
+.set27{
+   
+    height: 500px;
+}
+#deva{
+    width: 100%;
+    height: 100%;
+}
+/* .img{
+    border-radius: 2px solid gray ;
+    box-shadow: 2px 2px 5px 5px black;
+    width: 30%;
+    height: 450px;
+    margin-left: 35px;
+    position: relative;
+} */ 
+/* .rate1{
+    border: 2px solid orange;
+
+}
+.rate2{
+    width: 200px;
+    height: 200px;
+    border-radius: 50% ;
+}
+img{
+    width: 100%;
+} */
+
+.set23{
+    border: 2px solid green;
+    height: 500px;
+    background:rgb(232, 176, 72);
+    text-align: auto;
+    border-radius: 600px 0px 0px 0px;
+}
+.set24{
+   
+    
+    width: 400px;
+    text-align: center;
+    position: relative;
+    left: 950px;
+    top:150px;
+
+}
+.set25{
+    border: 2px solid black;
+    background-color: white;
+   width: 400px;
+   padding: 50px;
+   text-align: center;
+   position: relative;
+   top: -400px;
+   left: 200px;
+}
+i{
+    color: white;
+    margin:5px;
+    font-size: 70px;
+}
+i:hover{
+    color: red;
+}
